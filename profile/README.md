@@ -32,6 +32,35 @@ and run batch logic and
 over write dathu logic
 by automation
 
+where erlier extentions
+earlier have limits
+are dathu make it rewritable
+and logic and transformed
+to Dathu and runs as
+single structure and api 
+and can build also css to work with
+deigns
+
+it was also made
+for fitting become
+communication and build
+its own llm and
+become natural language
+in semantic structure
+and unlesh dathu technology
+with generative ai and
+build for machine learning
+and advance logic
+performance
+
+
+it also can change
+matplotlib libraries
+and pipy and numbpy
+librarie to become
+a dathu infastructure
+
+
 ```
 
 -----------
