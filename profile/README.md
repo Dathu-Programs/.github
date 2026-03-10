@@ -61,6 +61,16 @@ librarie to become
 a dathu infastructure
 
 
+and run generative
+technologies
+and basic parameter
+infastructure like SQL
+to
+make fetch out technology
+and envolve missing feature
+by text type and edit software
+And input dathu Sql into applications
+
 ```
 
 -----------
