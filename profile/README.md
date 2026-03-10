@@ -8,8 +8,8 @@
 ~ Dathu is a own program language
 started 2026
 
-~ Dathu is running SQL
-~ Dathu is Running Mobile Os
+- Dathu is running SQL
+- Dathu is Running Mobile Os
 ~ Dathu is Web Server
 ~ Dathu is Quantum Logic
 ~ Dathu is Database Synch
