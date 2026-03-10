@@ -10,13 +10,13 @@ started 2026
 
 - Dathu is running SQL
 - Dathu is Running Mobile Os
-~ Dathu is Web Server
-~ Dathu is Quantum Logic
-~ Dathu is Database Synch
-~ Dathu is a own Jwt Compiler
-~ Dathu is make logic three fast
-~ Dathu is envolve as software Backbone
-~ Dathu is Database
+- Dathu is Web Server
+- Dathu is Quantum Logic
+- Dathu is Database Synch
+- Dathu is a own Jwt Compiler
+- Dathu is make logic three fast
+- Dathu is envolve as software Backbone
+- Dathu is Database
 
 
 
