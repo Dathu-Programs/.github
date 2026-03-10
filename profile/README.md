@@ -19,6 +19,23 @@ started 2026
 - Dathu is Database
 
 
+----------
+
+```
+Dathu is only language
+performing its own 
+infastructure in several
+structure 
+
+it rewrite extentions 
+and run batch logic and
+over write dathu logic
+by automation
+
+```
+
+-----------
+
 
 
 
